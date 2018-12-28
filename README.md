@@ -1,2 +1,4 @@
 # ML_Computer_Vision_Pytorch_OpenCV2_Object_Tracking_Real_time_Sandeep_Kanao
 ML_Computer_Vision_Pytorch_OpenCV2_Object_Tracking_Real_time_Sandeep_Kanao
+
+python video_demo.py --video elephant.mp4 --output elephant-label.avi
